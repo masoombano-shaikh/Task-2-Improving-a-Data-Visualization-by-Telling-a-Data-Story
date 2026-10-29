@@ -56,7 +56,7 @@ conda install pandas numpy scikit-learn seaborn matplotlib kagglehub -y
 ```
 
 Note:
-- `re` and `warnings` are part of the Python standard library, so they do not need separate installation.
+- `warnings` is a part of the Python standard library, so it does not need separate installation.
 - `notebook` or `jupyterlab` may need to be installed if Jupyter is not already available.
 
 ## Run the notebook
